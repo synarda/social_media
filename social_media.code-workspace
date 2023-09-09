@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "social_media",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../whereismystajyer/whereismyintern/assets"
+		}
+	],
+	"settings": {}
+}
